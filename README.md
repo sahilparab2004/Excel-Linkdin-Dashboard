@@ -27,16 +27,21 @@ Each project demonstrates various Excel skills such as data cleaning, advanced f
 - INDEX + MATCH
 
 🔤 Text Functions
+
 1.LEFT, RIGHT, MID
+
 2.TRIM, PROPER, CONCAT
 
 🔐 Logical Functions
+
  1.IF, AND, OR, IFS
 
 ➗ Math Functions
+
  1.SUMIF, COUNTIF, AVERAGEIF
 
 🕒 Date & Time Functions
+
  1.TODAY, MONTH, DATEDIF
 
 ✔ Data Analysis
